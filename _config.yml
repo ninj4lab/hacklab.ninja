@@ -1,0 +1,11 @@
+title: HackThePlanet
+email: contacto@hacklab.ninja
+baseurl: "http://hacklab.ninja" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: kramdown
+theme: minima
+gems:
+exclude:
+  - Gemfile
+  - Gemfile.lock
