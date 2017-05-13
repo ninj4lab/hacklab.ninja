@@ -80,3 +80,8 @@ nav a:hover, nav li.active a:link, nav li.active a:visited {
   margin-top: 30px;
 }
 
+.content li {
+  list-style: inside;
+  padding: 3px 0;
+}
+
