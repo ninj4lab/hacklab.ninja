@@ -2,14 +2,13 @@
 <html>
   <head>
     <title>{{site.title}}</title>
-    <link rel="stylesheet" href="assets/css/reset.css">
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/reset.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
   </head>
   <body>
     <div class="main-container">
-      <nav>
-        <a href="/"><img width="128" src="assets/images/hacktheplanet.png"> The Planet</a>
-      </nav>
+      {% include header.html %}
+      {% include navbar.html %}
       <div class="content">
         {{content}}
       </div>

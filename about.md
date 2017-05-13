@@ -1,15 +1,12 @@
 ---
-layout: page
-title: About
+layout: home
+title: El Lab
 permalink: /about/
+group: navigation
+nav_text: "El Lab"
+nav_order: 2
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# ¿Qué es el Lab?
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+{TODO agregar texto}
